@@ -1,0 +1,2 @@
+# Smart-IoT-Based-Earthquake-Detection-and-Alert-System
+This project is an IoT-based earthquake detection system that uses vibration data from sensors and a machine learning model to identify abnormal seismic activity and send real-time alerts. The system combines IoT hardware, machine learning, and embedded systems to provide a low-cost and scalable early-warning solution for smart city applications.
